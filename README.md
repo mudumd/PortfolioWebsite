@@ -1,15 +1,4 @@
-NAME:MUDASSIR MOHAMMED     
-COMPANY:CODETECH SOLUTIONS 
-ID :CT08DS2725
-DOMAIN:UI/UX DESIGN 
-DURATION : JUNE TO JULY 2024
-
 PROJECT :PORTFOLIO WEBSITE REDESIGN
-Redesign your personal portfolio website to showcase your work and skills in a visually
-appealing and user-friendly manner. Focus on improving the layout, navigation, and
-visual design to create a professional and engaging user experience.
-
-
 
 <img width="1470" alt="Screenshot 2024-06-24 at 4 36 18 PM" src="https://github.com/mudumd/CODTECH-TASK1/assets/172376190/b6bbc673-0a98-423f-a132-fb332c988087">
 
